@@ -30,5 +30,5 @@ ___This Tool is Free Enjoy Dear User.___</br>
 
 <br>
 <p align="center">
-![IMG-20230429-WA0031](https://user-images.githubusercontent.com/125175895/235300200-bcf130a7-db12-4d30-a965-d0ef2553310c.jpg)
+https://user-images.githubusercontent.com/125175895/235300200-bcf130a7-db12-4d30-a965-d0ef2553310c.jpg
 </p>

@@ -16,7 +16,7 @@
 
 * `rm -Loser`
 
-* `git clone [https://github.com/MUMIT-404-CYBER/PyCompile.git](https://github.com/ZBH-Brand/Loser.git)`
+* `git clone https://github.com/ZBH-Brand/Loser.git`
 
 * `cd Loser`
 
